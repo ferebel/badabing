@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+*.xcuserdatad/
+
+# Swift/Xcode
+build/
+DerivedData/
+*.swp
